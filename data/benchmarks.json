@@ -1,0 +1,9 @@
+[
+	{
+		"name": "Security Repo",
+		"description": "Finding samples of various types of Security related can be a giant pain.",
+		"url": "http://www.secrepo.com/",
+		"repo": "https://github.com/sooshie/secrepo",
+		"target": "Data"
+	}
+]

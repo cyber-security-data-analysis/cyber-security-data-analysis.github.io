@@ -1,0 +1,10 @@
+[
+	{
+		"name": "PyOD",
+		"description": "PyOD is a comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data.",
+		"url": "https://pyod.readthedocs.io/en/latest/",
+		"repo": "https://github.com/yzhao062/Pyod",
+		"target": "Outlier Detection",
+		"dblp": "journals/jmlr/ZhaoNL19"
+	}
+]
