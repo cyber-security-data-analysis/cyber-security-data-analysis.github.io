@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<rdf:RDF xmlns:dblp="https://dblp.org/rdf/schema-2017-04-18#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1" xmlns:bibtex="http://data.bibbase.org/ontology/#">
+<dblp:Person rdf:about="https://dblp.org/pers/w/Wang:Jiabao">
+<dblp:primaryFullPersonName>Jiabao Wang</dblp:primaryFullPersonName>
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/tcps/WangZSCVLMWF19" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/corr/abs-1901-05798" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/ijon/LiMWZ18" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/icmai2/LiMLWZ18" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/icmlc2/WangZC18" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/ieicet/XuMWLLZXP17" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/ieicet/XuLWMLZ17" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/ieicet/XuLWMLZT17" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/ieicet/LiMWZL17" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/spl/LiXWMZ17" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/cccv/WangLM17" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/icncc/TianWZZ17" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/iscid/ZhangMLWZZ17" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/spl/XuWLLMZ16" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/spl/LiZXWM16" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/tits/KangWZA16" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/ideal/LiLXWZ16" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/wcsp/LiXMLWZ16" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/wcsp/WangLLXMZ16" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/ieicet/LiZWXLP15" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/wcsp/XuZWLL15" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/wcsp/ZhangZWLLM15" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/icsi/WangKTWW14" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/jcp/WangZLL13" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/fskd/LuLWZLB13" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/apwcs/LiZLLW10" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/a/Ammari:Ahmed_Chiheb" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/b/Bao:Lei" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/c/Chang:Victor" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/c/Chen:Jun" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/f/Fan:Yiping" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/k/Kang:Qi" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/l/Li:Hang" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/l/Li:Wei" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/l/Li:Yang" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/l/Li_0015:Yang" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/l/Lim:Ran" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/l/Liu:Bin" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/l/Lu:Jianjiang" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/m/Mao:Yishu" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/m/Miao:Zhuang" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/p/Pan:Zhisong" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Shi_0002:Weiwei" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/t/Tao:Gang" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/t/Tian:Hongjun" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/t/Tian:Yifan" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/v/Vijayakumar:Pandi" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/w/Wang:Chang" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/w/Wang_0006:Lei" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/w/Wu:Qidi" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/x/Xu:Weiguang" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/x/Xu:Yulong" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/z/Zhang:Gengning" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/z/Zhang:Xiancai" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/z/Zhang:Yafei" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/z/Zhao:Zhijie" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/z/Zhou:Bo" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/z/Zhou:MengChu" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/z/Zhou:Shengli" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/z/Zhou:Zhenji" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/z/Zhu_0001:Yongxin" />
+</dblp:Person>
+<rdf:Description rdf:about="https://dblp.org/pers/w/Wang:Jiabao.rdf">
+<rdfs:label>provenance information for RDF data of dblp person &apos;w/Wang:Jiabao&apos;</rdfs:label>
+<dcterms:creator rdf:resource="https://dblp.org" />
+<dcterms:isPartOf rdf:resource="https://dblp.org/rdf/dblp.rdf" />
+<dcterms:license rdf:resource="https://opendatacommons.org/licenses/by/1.0/" />
+<dcterms:modified>2019-05-10T22:22:31+0200</dcterms:modified>
+</rdf:Description>
+</rdf:RDF>
