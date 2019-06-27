@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<rdf:RDF xmlns:dblp="https://dblp.org/rdf/schema-2017-04-18#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1" xmlns:bibtex="http://data.bibbase.org/ontology/#">
+<dblp:Person rdf:about="https://dblp.org/pers/b/Bowers:Kevin_D=">
+<dblp:primaryFullPersonName>Kevin D. Bowers</dblp:primaryFullPersonName>
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/acsac/OpreaLNB18" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/securecomm/TianLBY18" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/raid/BowersHJT14" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/infocom/BowersJRS13" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/iacr/BowersHJT13" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/tos/LuoBOX12" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/cloud/FarleyJVRBS12" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/gamesec/BowersDGJORT12" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/iacr/BowersDGJORT12" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/ccs/BowersDJOR11" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/chi/DenningBDJ11" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/iacr/BowersDJOR10" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/ccs/BowersJO09a" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/ccs/BowersJO09" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/esorics/OpreaB09" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/iacr/OpreaB09" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/iacr/BowersJO08" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/iacr/BowersJO08a" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/ndss/BowersBGPR07" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/esorics/GargBBPR06" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/sswmc/HarmsenBP04" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/b/Bauer:Lujo" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/d/Denning:Tamara" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/d/Dijk:Marten_van" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/f/Farley:Benjamin" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/g/Garg_0001:Deepak" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/g/Griffin:Robert" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/h/Harmsen:Jeremiah_J=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/h/Hart:Catherine" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/j/Juels:Ari" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/l/Li_0001:Zhou" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/l/Luo:Jianqiang" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/n/Norris:Robin" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/o/Oprea:Alina" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/p/Pearlman:William_A=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/p/Pfenning:Frank" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/r/Reiter:Michael_K=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/r/Ristenpart:Thomas" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/r/Rivest:Ronald_L=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Shen:Emily" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Swift:Michael_M=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/t/Tian:Ke" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/t/Triandopoulos:Nikos" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/v/Varadarajan:Venkatanathan" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/x/Xu:Lihao" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/y/Yao:Danfeng" />
+</dblp:Person>
+<rdf:Description rdf:about="https://dblp.org/pers/b/Bowers:Kevin_D=.rdf">
+<rdfs:label>provenance information for RDF data of dblp person &apos;b/Bowers:Kevin_D=&apos;</rdfs:label>
+<dcterms:creator rdf:resource="https://dblp.org" />
+<dcterms:isPartOf rdf:resource="https://dblp.org/rdf/dblp.rdf" />
+<dcterms:license rdf:resource="https://opendatacommons.org/licenses/by/1.0/" />
+<dcterms:modified>2019-06-05T00:20:40+0200</dcterms:modified>
+</rdf:Description>
+</rdf:RDF>
