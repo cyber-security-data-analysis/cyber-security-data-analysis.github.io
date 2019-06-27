@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<rdf:RDF xmlns:dblp="https://dblp.org/rdf/schema-2017-04-18#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1" xmlns:bibtex="http://data.bibbase.org/ontology/#">
+<dblp:Publication rdf:about="https://dblp.org/rec/conf/icdm/LiuTZ08">
+<owl:sameAs rdf:resource="https://doi.org/10.1109/ICDM.2008.17" />
+<dblp:title>Isolation Forest.</dblp:title>
+<dblp:bibtexType rdf:resource="http://data.bibbase.org/ontology/#Inproceedings" />
+<dblp:publicationType rdf:resource="https://dblp.org/rdf/schema-2017-04-18#Inproceedings" />
+<dblp:authoredBy rdf:resource="https://dblp.org/pers/l/Liu:Fei_Tony" />
+<dblp:authoredBy rdf:resource="https://dblp.org/pers/t/Ting:Kai_Ming" />
+<dblp:authoredBy rdf:resource="https://dblp.org/pers/z/Zhou:Zhi=Hua" />
+<dblp:primaryElectronicEdition rdf:resource="https://doi.org/10.1109/ICDM.2008.17" />
+<dblp:otherElectronicEdition rdf:resource="http://doi.ieeecomputersociety.org/10.1109/ICDM.2008.17" />
+<dblp:otherElectronicEdition rdf:resource="https://www.wikidata.org/entity/Q57535605" />
+<dblp:listedOnTocPage rdf:resource="https://dblp.org/db/conf/icdm/icdm2008" />
+<dblp:publishedInBook>ICDM</dblp:publishedInBook>
+<dblp:pageNumbers>413-422</dblp:pageNumbers>
+<dblp:yearOfPublication>2008</dblp:yearOfPublication>
+<dblp:publishedAsPartOf rdf:resource="https://dblp.org/rec/conf/icdm/2008" />
+</dblp:Publication>
+<rdf:Description rdf:about="https://dblp.org/rec/conf/icdm/LiuTZ08.rdf">
+<rdfs:label>provenance information for RDF data of dblp record &apos;conf/icdm/LiuTZ08&apos;</rdfs:label>
+<dcterms:creator rdf:resource="https://dblp.org" />
+<dcterms:isPartOf rdf:resource="https://dblp.org/rdf/dblp.rdf" />
+<dcterms:license rdf:resource="https://opendatacommons.org/licenses/by/1.0/" />
+<dcterms:modified>2018-11-14T10:56:33+0100</dcterms:modified>
+</rdf:Description>
+</rdf:RDF>

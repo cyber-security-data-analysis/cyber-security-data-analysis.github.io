@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<rdf:RDF xmlns:dblp="https://dblp.org/rdf/schema-2017-04-18#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1" xmlns:bibtex="http://data.bibbase.org/ontology/#">
+<dblp:Person rdf:about="https://dblp.org/pers/b/Breunig:Markus_M=">
+<dblp:primaryFullPersonName>Markus M. Breunig</dblp:primaryFullPersonName>
+<dblp:primaryAffiliation>Fachhochschule Rosenheim, Germany</dblp:primaryAffiliation>
+<dblp:otherAffiliation>Technical University Munich, Germany</dblp:otherAffiliation>
+<dblp:primaryHomepage rdf:resource="http://www.fh-rosenheim.de/brm.html" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/phd/dnb/Breunig01" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/gidr/Breunig01" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/sigmod/BreunigKKS01" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/cikm/BohmBBK00" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/pkdd/BreunigKS00" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/sigmod/BreunigKNS00" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/pkdd/BreunigKNS99" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/sigmod/AnkerstBKS99" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/sigmod/HammerGNYBV97" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/a/Ankerst:Mihael" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/b/B=ouml=hm:Christian" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/b/Braunm=uuml=ller:Bernhard" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/g/Garcia=Molina:Hector" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/h/Hammer:Joachim" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/k/Kriegel:Hans=Peter" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/k/Kr=ouml=ger:Peer" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/n/Nestorov:Svetlozar" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/n/Ng:Raymond_T=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Sander_0001:J=ouml=rg" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/v/Vassalos:Vasilis" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/y/Yerneni:Ramana" />
+</dblp:Person>
+<rdf:Description rdf:about="https://dblp.org/pers/b/Breunig:Markus_M=.rdf">
+<rdfs:label>provenance information for RDF data of dblp person &apos;b/Breunig:Markus_M=&apos;</rdfs:label>
+<dcterms:creator rdf:resource="https://dblp.org" />
+<dcterms:isPartOf rdf:resource="https://dblp.org/rdf/dblp.rdf" />
+<dcterms:license rdf:resource="https://opendatacommons.org/licenses/by/1.0/" />
+<dcterms:modified>2019-06-03T22:38:58+0200</dcterms:modified>
+</rdf:Description>
+</rdf:RDF>

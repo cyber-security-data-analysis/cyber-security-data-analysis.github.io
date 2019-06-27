@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<rdf:RDF xmlns:dblp="https://dblp.org/rdf/schema-2017-04-18#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1" xmlns:bibtex="http://data.bibbase.org/ontology/#">
+<dblp:Person rdf:about="https://dblp.org/pers/h/Hodge:Victoria_J=">
+<owl:sameAs rdf:resource="https://orcid.org/0000-0002-2469-0224" />
+<dblp:primaryFullPersonName>Victoria J. Hodge</dblp:primaryFullPersonName>
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/corr/abs-1906-03939" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/tvx/BlockHHSDUDC18" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/corr/abs-1805-00811" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/corr/abs-1711-06498" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/ni/HodgeJFWTJISA16" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/nn/HodgeOA16" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/cig/SephtonCDHS16" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/tits/HodgeOWM15" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/nca/HodgeKAPJ14" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/ijcci/HodgeJA12" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/ijon/HodgeOA09" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/civr/HodgeEA07" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/civr/LeukenDHAV07" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/ijon/HodgeOA06" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/civr/HodgeHEA06" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/kais/HodgeA05" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/air/HodgeA04" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/nn/HodgeLA04" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/tkde/HodgeA03" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/iwann/WeeksHOAL03" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/ijon/HodgeA02" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/pr/HodgeA02" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/hpdc/WeeksHA02" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/pdp/WeeksHA02" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/phd/ethos/Hodge01" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/nn/HodgeA01" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/tkde/HodgeA01" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/esann/HodgeA01" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/icann/HodgeA01" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/ijcnn/HodgeA00" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/kes/HodgeA00" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/a/Austin:Jim" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/b/Block:Florian" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/c/Cowling:Peter_I=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/d/Demediuk:Simon" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/d/Demirci:M=_Fatih" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/d/Devlin:Sam" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/d/Drachen:Anders" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/e/Eakins:John_P=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/f/Fletcher:Martyn" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/h/Hobson:Stephen" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/h/Hollier:Garry" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/i/Ingram:Colin" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/j/Jackson:Thomas_W=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/j/Jessop:Mark" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/k/Katona:Adam" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/k/Krishnan:Rajesh" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/l/Lees:Ken" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/l/Leuken:Reinier_H=_van" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/m/Moulds:Anthony" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/o/O=Keefe:Simon" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/p/Polak:John_W=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Sephton:Nick" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Slaven:Nicholas_H=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Smith:Leslie" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Spick:Ryan_J=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/t/Turner:Aaron" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/u/Ursu:Marian_Florin" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/v/Veltkamp:Remco_C=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/w/Walker:James_Alfred" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/w/Weeks_0001:Michael" />
+</dblp:Person>
+<rdf:Description rdf:about="https://dblp.org/pers/h/Hodge:Victoria_J=.rdf">
+<rdfs:label>provenance information for RDF data of dblp person &apos;h/Hodge:Victoria_J=&apos;</rdfs:label>
+<dcterms:creator rdf:resource="https://dblp.org" />
+<dcterms:isPartOf rdf:resource="https://dblp.org/rdf/dblp.rdf" />
+<dcterms:license rdf:resource="https://opendatacommons.org/licenses/by/1.0/" />
+<dcterms:modified>2019-06-16T22:15:52+0200</dcterms:modified>
+</rdf:Description>
+</rdf:RDF>

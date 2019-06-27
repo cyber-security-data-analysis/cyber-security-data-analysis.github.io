@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<rdf:RDF xmlns:dblp="https://dblp.org/rdf/schema-2017-04-18#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1" xmlns:bibtex="http://data.bibbase.org/ontology/#">
+<dblp:Person rdf:about="https://dblp.org/pers/s/Santos:Anderson">
+<dblp:primaryFullPersonName>Anderson Santos</dblp:primaryFullPersonName>
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/sac/FalcaoZSSFCB19" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/imm/BertelliSSFBMNW17" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/ciarp/SantosP15" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/fie/CostaSSASSRL14" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/its/CostaSSSS12" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/a/Azevedo:Alexandre_Carlos_Santos" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/b/Barbosa:Caio" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/b/Bertelli:Guilherme" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/b/Bondavalli:Andrea" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/b/Brand=atilde=o:Dennis" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/c/Ceccarelli:Andrea" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/c/Costa:Evandro_de_Barros" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/f/Falc=atilde=o:Filipe" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/f/Fernandes:Renato" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/l/Lima:Natalia_Caroline" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/m/M=uuml=ller:Ivan" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/n/Neto:Baldoino_Fonseca_dos_Santos" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/n/Netto:Jo=atilde=o_Cesar" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/p/Pedrini:H=eacute=lio" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/p/Pereira:Carlos_Eduardo" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/r/Rocha:Hemilis_Joyse_Barbosa" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Silva:Emanuele" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Silva:Ivanovitch" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Silva:Marlos" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Silva:Priscylla" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/w/Winter:Jean_Michel" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/z/Zoppi:Tommaso" />
+</dblp:Person>
+<rdf:Description rdf:about="https://dblp.org/pers/s/Santos:Anderson.rdf">
+<rdfs:label>provenance information for RDF data of dblp person &apos;s/Santos:Anderson&apos;</rdfs:label>
+<dcterms:creator rdf:resource="https://dblp.org" />
+<dcterms:isPartOf rdf:resource="https://dblp.org/rdf/dblp.rdf" />
+<dcterms:license rdf:resource="https://opendatacommons.org/licenses/by/1.0/" />
+<dcterms:modified>2019-05-03T22:38:37+0200</dcterms:modified>
+</rdf:Description>
+</rdf:RDF>

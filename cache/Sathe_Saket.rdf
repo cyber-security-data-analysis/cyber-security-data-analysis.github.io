@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<rdf:RDF xmlns:dblp="https://dblp.org/rdf/schema-2017-04-18#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1" xmlns:bibtex="http://data.bibbase.org/ontology/#">
+<dblp:Person rdf:about="https://dblp.org/pers/s/Sathe:Saket">
+<dblp:primaryFullPersonName>Saket Sathe</dblp:primaryFullPersonName>
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/kais/SatheA18" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/books/sp/AggarwalS17" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/icdm/SatheAKL17" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/isgteurope/ChenVS17" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/kdd/SatheA17" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/sdm/ChenSAT17" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/icdm/SatheA16" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/icdm/ChiSHW16" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/sdm/SatheA16" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/sdm/LiuALKSS16" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/sigkdd/AggarwalS15" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/sigkdd/ChenVSK15" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/cikm/GuoSA15" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/icde/SatheSA15" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/sigmod/GoonetillekeSSZ14" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/sigkdd/GoonetillekeSZS14" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/tkde/JeungLSY14" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/colcom/HungSDA14" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/mdm/SatheMBK14" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/pvldb/SatheO0A13" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/icde/SatheA13" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/books/sp/mmsd13/SathePJA13" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/ipsn/SatheCCA12" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/secon/CartierSCA12" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/icde/SatheJA11" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/gis/AbererSCMBFT10" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/sutc/JeungSPSADPL10" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/webdb/IoannouSBJBSNM09" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/corr/abs-cs-0611150" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/a/Aberer:Karl" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/a/Aggarwal:Charu_C=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/b/Bak:Peter" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/b/Barrenetxea:Guillermo" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/b/Bondalapati:Srikanth" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/b/Bonvin:Nicolas" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/c/Cartier:Sebastian" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/c/Chakraborty_0001:Dipanjan" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/c/Chen:Jinghui" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/c/Chen:Sue_A=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/c/Chi:Lianhua" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/d/Dawes:Nicholas" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/d/Duong:Chi_Thang" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/f/Faltings:Boi" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/g/Goonetilleke:Oshini" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/g/Guo_0002:Tian" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/h/Han:Bo" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/h/Hung:Nguyen_Quoc_Viet" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/i/Ioannou:Ekaterini" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/j/Jain:Anshul" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/j/Jeung:Hoyoung" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/k/Kalyanaraman:Shivkumar" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/k/Kong:Xiangnan" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/l/Lehning:Michael" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/l/Li:Yu=Feng" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/l/Liu:Xinyue" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/l/Lu_0001:Hua" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/m/Martinoli:Alcherio" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/m/Melamed:Roie" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/m/Mikl=oacute=s_0001:Zolt=aacute=n" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/n/Nieder=eacute=e:Claudia" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/o/Oviedo:Arthur" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/p/Papaioannou:Thanasis_G=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/p/Paparrizos:Ioannis_K=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Sarni:Sofiane" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Sellis:Timos_K=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Skobeltsyn:Gleb" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Sun:Xinyuan" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/t/Thiele:Lothar" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/t/Turaga:Deepak_S=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/v/Vishwanath:Arun" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/w/Wang:Yun" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/y/Yiu:Man_Lung" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/z/Zhang:Xiuzhen" />
+</dblp:Person>
+<rdf:Description rdf:about="https://dblp.org/pers/s/Sathe:Saket.rdf">
+<rdfs:label>provenance information for RDF data of dblp person &apos;s/Sathe:Saket&apos;</rdfs:label>
+<dcterms:creator rdf:resource="https://dblp.org" />
+<dcterms:isPartOf rdf:resource="https://dblp.org/rdf/dblp.rdf" />
+<dcterms:license rdf:resource="https://opendatacommons.org/licenses/by/1.0/" />
+<dcterms:modified>2019-06-05T00:20:14+0200</dcterms:modified>
+</rdf:Description>
+</rdf:RDF>

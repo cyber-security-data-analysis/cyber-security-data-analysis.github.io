@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<rdf:RDF xmlns:dblp="https://dblp.org/rdf/schema-2017-04-18#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1" xmlns:bibtex="http://data.bibbase.org/ontology/#">
+<dblp:Person rdf:about="https://dblp.org/pers/r/Ramaswamy:Sridhar">
+<dblp:primaryFullPersonName>Sridhar Ramaswamy</dblp:primaryFullPersonName>
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/bmcbi/AmzallagRB19" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/nar/YangSGELFBBSTRFHSBMG13" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/sigmod/Ramaswamy08" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/siamrev/RifkinMTRYARPLG03" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/kdd/Piatetsky-ShapiroKR03" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/ismb/YeangRTMRARLMG01" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/edbt/ArgePRSVV00" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/sigmod/RamaswamyRS00" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/vldb/Ramaswamy00" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/cdb/Ramaswamy00" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/sigmod/AcharyaPR99" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/sigmod/AcharyaGPR99a" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/sigmod/GarofalakisRRS99" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/sigmod/AcharyaGPR99" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/gis/KuperRSS98" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/icde/OzdenRS98" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/soda/ArgePRSV98" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/vldb/RamaswamyMS98" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/vldb/ArgePRSV98" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/icdt/Ramaswamy97" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/jcss/KanellakisRVV96" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/jcss/AbiteboulKRW95" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/sigmod/RamaswamyK95" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/soda/SubramanianR95" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/pods/RamaswamyS94" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/nato/HillebrandKR93" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/pods/KanellakisRVV93" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/books/mk/elmagarmid92/NodineRZ92" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/a/Abiteboul:Serge" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/a/Acharya:Swarup" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/a/Amzallag:Arnaud" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/a/Angelo:Michael" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/a/Arge:Lars" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/b/Beare:David" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/b/Benes:Cyril" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/b/Bindal:Nidhi" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/e/Edelman:Elena_J=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/f/Forbes:Simon_A=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/f/Futreal:P=_Andrew" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/g/Garnett:Mathew" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/g/Garofalakis:Minos_N=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/g/Gibbons:Phillip_B=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/g/Golub:Todd_R=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/g/Greninger:Patricia" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/h/Haber:Daniel_A=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/h/Hillebrand:Gerd_G=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/k/Kanellakis:Paris_C=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/k/Khabaza:Tom" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/k/Kuper:Gabriel_M=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/l/Lander:Eric_S=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/l/Lightfoot:Howard" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/m/Mahajan:Sameer" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/m/McDermott:Ultan" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/m/Mesirov:Jill_P=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/m/Mukherjee_0001:Sayan" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/n/Nodine:Marian_H=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/=/=Ouml=zden:Banu" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/p/Piatetsky=Shapiro:Gregory" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/p/Poggio:Tomaso_A=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/p/Poosala:Viswanath" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/p/Procopiuc:Octavian" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/r/Rastogi:Rajeev" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/r/Reich:Michael" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/r/Rifkin:Ryan_M=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Shim:Kyuseok" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Silberschatz:Abraham" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Smith:James_A=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Soares:Jorge" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Stratton:Michael_R=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Su:Jianwen" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Subramanian:Sairam" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Suel:Torsten" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/t/Tamayo:Pablo" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/t/Thompson:I=_Richard" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/v/Vahrenhold:Jan" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/v/Vengroff:Darren_Erik" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/v/Vitter:Jeffrey_Scott" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/w/Waller:Emmanuel" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/y/Yang:Wanjuan" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/y/Yeang:Chen=Hsiang" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/z/Zdonik:Stanley_B=" />
+</dblp:Person>
+<rdf:Description rdf:about="https://dblp.org/pers/r/Ramaswamy:Sridhar.rdf">
+<rdfs:label>provenance information for RDF data of dblp person &apos;r/Ramaswamy:Sridhar&apos;</rdfs:label>
+<dcterms:creator rdf:resource="https://dblp.org" />
+<dcterms:isPartOf rdf:resource="https://dblp.org/rdf/dblp.rdf" />
+<dcterms:license rdf:resource="https://opendatacommons.org/licenses/by/1.0/" />
+<dcterms:modified>2019-05-24T20:49:20+0200</dcterms:modified>
+</rdf:Description>
+</rdf:RDF>

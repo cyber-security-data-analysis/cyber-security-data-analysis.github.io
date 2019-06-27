@@ -1,2 +1,10 @@
 journals/jmlr/ZhaoNL19
+conf/sac/FalcaoZSSFCB19
 conf/icmlc2/WangZC18
+conf/sdm/ChenSAT17
+conf/icdm/LiuTZ08
+journals/air/HodgeA04
+conf/pkdd/AngiulliP02
+journals/neco/ScholkopfPSSW01
+conf/sigmod/BreunigKNS00
+conf/sigmod/RamaswamyRS00

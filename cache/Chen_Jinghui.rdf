@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<rdf:RDF xmlns:dblp="https://dblp.org/rdf/schema-2017-04-18#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1" xmlns:bibtex="http://data.bibbase.org/ontology/#">
+<dblp:Person rdf:about="https://dblp.org/pers/c/Chen:Jinghui">
+<dblp:primaryFullPersonName>Jinghui Chen</dblp:primaryFullPersonName>
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/icml/ChenXW0G18" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/icse/ChenGMC18" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/nips/XuCZG18" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/corr/abs-1806-06763" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/corr/abs-1811-10828" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/kdd/ChenG17" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/sdm/ChenSAT17" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/corr/ChenWZG17" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/corr/XuCG17" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/uai/ChenG16" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/crv/BaumannCVR15" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/pcs/ChenYDLM12" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/ncm/LiCLX10" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/fskd/ZhangQWFC07" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/a/Aggarwal:Charu_C=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/b/Baumann:Florian" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/c/Cleland=Huang:Jane" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/d/Di:Jinhong" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/f/Fu:Yongheng" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/g/Goodrum:Micayla" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/g/Gu:Quanquan" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/l/Li:Xiaoping" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/l/Li:Yinxing" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/l/Liu:Chun" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/m/Ma_0004:Jian" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/m/Men:Aidong" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/m/Metoyer:Ronald_A=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/q/Qin:Fen" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/r/Rosenhahn:Bodo" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Sathe:Saket" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/t/Turaga:Deepak_S=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/v/Vogt:Karsten" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/w/Wang:Jiayao" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/w/Wang:Lingxiao" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/x/Xu:Pan" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/x/Xu:Qiong" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/y/Ye:Feng" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/y/Yi:Jinfeng" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/z/Zhang:Xiao" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/z/Zhang:Xueping" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/z/Zou:Difan" />
+</dblp:Person>
+<rdf:Description rdf:about="https://dblp.org/pers/c/Chen:Jinghui.rdf">
+<rdfs:label>provenance information for RDF data of dblp person &apos;c/Chen:Jinghui&apos;</rdfs:label>
+<dcterms:creator rdf:resource="https://dblp.org" />
+<dcterms:isPartOf rdf:resource="https://dblp.org/rdf/dblp.rdf" />
+<dcterms:license rdf:resource="https://opendatacommons.org/licenses/by/1.0/" />
+<dcterms:modified>2019-04-04T22:58:33+0200</dcterms:modified>
+</rdf:Description>
+</rdf:RDF>

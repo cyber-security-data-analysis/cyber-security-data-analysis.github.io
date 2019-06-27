@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<rdf:RDF xmlns:dblp="https://dblp.org/rdf/schema-2017-04-18#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1" xmlns:bibtex="http://data.bibbase.org/ontology/#">
+<dblp:Person rdf:about="https://dblp.org/pers/z/Zoppi:Tommaso">
+<dblp:primaryFullPersonName>Tommaso Zoppi</dblp:primaryFullPersonName>
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/tcps/CeccarelliZVMIM19" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/sac/FalcaoZSSFCB19" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/smr/ZoppiCPLGMB18" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/prdc/ZoppiCB18" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/refsq/VasenevIZCW17" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/sac/ZoppiCB17" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/smartgift/ZoppiCM17" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/smartgift/ZoppiBCLLV17" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/hase/ZoppiCLBPGM16" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/safecomp/ZoppiCB16" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/srds/ZoppiCB16" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/sysose/MoriCZB16" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/safecomp/CeccarelliZIB15" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/isorc/CeccarelliZBDV14" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/vast/DAndreaMZ06" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/b/Barbosa:Caio" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/b/Bessler:Sandford" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/b/Bondavalli:Andrea" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/c/Ceccarelli:Andrea" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/d/D=Andrea:Andrea" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/d/Duchi:Fabio" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/f/Falc=atilde=o:Filipe" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/g/Giunta:Gabriele" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/i/Ionita:Dan" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/i/Itria:Massimiliano_Leone" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/l/Lambert:Edward" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/l/Lau:Eng_Tseng" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/l/Lollini:Paolo" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/m/Marchese:Giulia" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/m/Montoya:Lorena" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/m/Mori:Marco" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/m/Morreale:Vito" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/n/Neto:Baldoino_Fonseca_dos_Santos" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/p/Piccolo:Francesco_Lo" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Santos:Anderson" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/v/Vasenev:Alexandr" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/v/Vella:Giuseppe" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/w/Wieringa:Roel_J=" />
+</dblp:Person>
+<rdf:Description rdf:about="https://dblp.org/pers/z/Zoppi:Tommaso.rdf">
+<rdfs:label>provenance information for RDF data of dblp person &apos;z/Zoppi:Tommaso&apos;</rdfs:label>
+<dcterms:creator rdf:resource="https://dblp.org" />
+<dcterms:isPartOf rdf:resource="https://dblp.org/rdf/dblp.rdf" />
+<dcterms:license rdf:resource="https://opendatacommons.org/licenses/by/1.0/" />
+<dcterms:modified>2019-05-29T22:44:20+0200</dcterms:modified>
+</rdf:Description>
+</rdf:RDF>
