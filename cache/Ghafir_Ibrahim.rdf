@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<rdf:RDF xmlns:dblp="https://dblp.org/rdf/schema-2017-04-18#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1" xmlns:bibtex="http://data.bibbase.org/ontology/#">
+<dblp:Person rdf:about="https://dblp.org/pers/g/Ghafir:Ibrahim">
+<dblp:primaryFullPersonName>Ibrahim Ghafir</dblp:primaryFullPersonName>
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/sensors/TariqAAFBHG19" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/icin/Aparicio-Navarro19" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/access/GhafirPHBJKJ18" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/access/GhafirKALAB18" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/fgcs/GhafirHPHHRA18" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/tjs/GhafirSHFPJJB18" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/icfnds/GhafirPHARJ18" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/milcom/Aparicio-Navarro18" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/peerjpre/GhafirHP18" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/phd/ethos/Ghafir17" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/icfnds/GhafirPHHR17" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/icfnds/RazaLGKW17" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/peerjpre/GhafirHP17" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/ficloud/GhafirPSH16" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/ficloud/GhafirPAH16" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/a/Al=Obeidat:Feras" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/a/Alhejailan:Ahmad" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/a/Aparicio=Navarro:Francisco_J=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/a/Asim:Muhammad" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/a/AsSadhan:Basil" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/b/Baker:Thar" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/b/Binsalleeh:Hamad" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/c/Chadza:Timothy_A=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/c/Chambers:Jonathon_A=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/f/Faour:Hanan" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/f/Farooqi:Muhammad_Zubair" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/h/Hammoudeh:Mohammad" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/h/Han:Liangxiu" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/h/Hegarty:Robert" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/j/Jabban:Ahmad" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/j/Jabbar:Sohail" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/j/Jaf:Sardar" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/k/Khalid:Shehzad" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/k/Kharel:Rupak" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/k/Kyriakopoulos:Konstantinos_G=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/l/Lambotharan:Sangarapillai" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/l/Lomax:James" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/p/Prenosil:Vaclav" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/r/Rabie:Khaled_M=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/r/Raza:Umar" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Saleem:Jibran" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Svoboda:Jakub" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/t/Tariq:Noshina" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/w/Whiteside:B=_R=" />
+</dblp:Person>
+<rdf:Description rdf:about="https://dblp.org/pers/g/Ghafir:Ibrahim.rdf">
+<rdfs:label>provenance information for RDF data of dblp person &apos;g/Ghafir:Ibrahim&apos;</rdfs:label>
+<dcterms:creator rdf:resource="https://dblp.org" />
+<dcterms:isPartOf rdf:resource="https://dblp.org/rdf/dblp.rdf" />
+<dcterms:license rdf:resource="https://opendatacommons.org/licenses/by/1.0/" />
+<dcterms:modified>2019-06-02T18:00:33+0200</dcterms:modified>
+</rdf:Description>
+</rdf:RDF>

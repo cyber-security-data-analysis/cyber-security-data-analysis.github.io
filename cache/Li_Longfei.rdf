@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<rdf:RDF xmlns:dblp="https://dblp.org/rdf/schema-2017-04-18#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1" xmlns:bibtex="http://data.bibbase.org/ontology/#">
+<dblp:Person rdf:about="https://dblp.org/pers/l/Li:Longfei">
+<dblp:primaryFullPersonName>Longfei Li</dblp:primaryFullPersonName>
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/access/LiZCBZS19" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/kdd/ChenLZLZL18" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/www/ZhangLZLZ18" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/corr/abs-1802-00910" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/corr/abs-1804-04918" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/corr/abs-1804-06027" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/corr/abs-1804-08403" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/corr/abs-1805-04234" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/mta/ChenLX17" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/ccs/LiZLC17" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/ccs/ZhangLZLLZZ17" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/kdd/ZhouLZCLYCYCDQ17" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/www/ChenZLZLQ17" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/jcphy/LiHBSM16" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/gamenets/GaoCL14" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/gamenets/LiCX14" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/acii/LiZJZWGES13" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/b/Banks:Jeffrey_W=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/b/Bose:Sanjay_K=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/c/Chen:Cen" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/c/Chen:Chaochao" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/c/Chen:Tao" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/c/Chen_0015:Wei" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/c/Chen:Xin" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/c/Chen:Xu" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/c/Cui:Qing" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/d/Ding:Yi" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/e/Enescu:Valentin" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/f/Feng:Ji" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/g/Gao:Chaoxin" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/g/Gonzalez:Isabel" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/h/Henshaw:William_D=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/j/Jiang:Dongmei" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/l/Li_0005:Ming" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/l/Li:Xiaolong" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/l/Liu:Yujiang" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/l/Liu:Ziqi" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/m/Main:A=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/q/Qi:Yuan_Alan" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/q/Qiu:Minghui" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Sahli:Hichem" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Schwendeman:Donald_W=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Shen:Gangxiang" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Song:Le" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/w/Wang:Fengna" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/x/Xiang:Xudong" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/y/Yang:Xinxing" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/y/Yu:Jin" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/z/Zhang:Ya" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/z/Zhang:Ya=Lin" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/z/Zhang:Yanning" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/z/Zhang:Yuanchao" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/z/Zhang:Zhiqiang" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/z/Zhao:Peilin" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/z/Zhao:Yong" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/z/Zheng:Wenhao" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/z/Zhou:Jun" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/z/Zhou:Zhi=Hua" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/z/Zukerman:Moshe" />
+</dblp:Person>
+<rdf:Description rdf:about="https://dblp.org/pers/l/Li:Longfei.rdf">
+<rdfs:label>provenance information for RDF data of dblp person &apos;l/Li:Longfei&apos;</rdfs:label>
+<dcterms:creator rdf:resource="https://dblp.org" />
+<dcterms:isPartOf rdf:resource="https://dblp.org/rdf/dblp.rdf" />
+<dcterms:license rdf:resource="https://opendatacommons.org/licenses/by/1.0/" />
+<dcterms:modified>2019-02-16T22:36:26+0100</dcterms:modified>
+</rdf:Description>
+</rdf:RDF>

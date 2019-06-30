@@ -1,8 +1,12 @@
 journals/jmlr/ZhaoNL19
 conf/sac/FalcaoZSSFCB19
+journals/fgcs/GhafirHPHHRA18
 conf/acsac/OpreaLNB18
 conf/icmlc2/WangZC18
+conf/ccs/ZhangLZLLZZ17
+conf/securecomm/JiangCCLLYW17
 conf/sdm/ChenSAT17
+conf/uss/NelmsPA13
 conf/icdm/LiuTZ08
 journals/air/HodgeA04
 conf/pkdd/AngiulliP02
