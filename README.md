@@ -2,7 +2,7 @@
 
 Template developed by [Sergey Mechtaev](<https://github.com/mechtaev>). Modified by panjks-.
 
-Community-driven effort to facilitate research and experience related to cyber security data analysis and mechine learning.
+Community-driven effort to facilitate research and experience related to cyber security data analysis and machine learning.
 
 ## Content ##
 
@@ -19,9 +19,6 @@ The website displays tools and benchmarks that
 * have corresponding publications in the bibliography section
 * publicly available
 * designed for security data mining.
-
-The website also hosts community pages &mdash; static webpages that present some information that is useful for program repair community.
-If you would like to maintain a community page under program-repair.org GitHub organization, please create an issue.
 
 ## Contributing via GitHub Issues ##
 
