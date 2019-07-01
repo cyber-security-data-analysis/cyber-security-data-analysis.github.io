@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<rdf:RDF xmlns:dblp="https://dblp.org/rdf/schema-2017-04-18#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1" xmlns:bibtex="http://data.bibbase.org/ontology/#">
+<dblp:Person rdf:about="https://dblp.org/pers/b/Berlin:Konstantin">
+<dblp:primaryFullPersonName>Konstantin Berlin</dblp:primaryFullPersonName>
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/corr/abs-1903-05700" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/corr/abs-1905-06262" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/corr/abs-1905-06987" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/corr/SaxeB17" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/corr/BerlinS16" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/ccs/BerlinSS15" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/malware/SaxeB15" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/corr/BerlinSS15" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/corr/SaxeB15" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/corr/BerlinGDF13" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/jcc/GumerovBFD12" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/lcpc/KochharPPSST03" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/d/Ducau:Felipe_N=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/d/Duraiswami:Ramani" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/f/Fushman:David" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/g/Gumerov:Nail_A=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/h/Harang:Richard_E=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/h/Heppner:Tad_M=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/h/Huan:Jun" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/j/Jacob:Mary" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/k/Kochhar:Garima" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/k/Kyadige:Adarsh" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/l/Long:Alex" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/p/Prins:Jan_F=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/p/Pugh:William" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/r/Rudd:Ethan_M=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Sadayappan:P=" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Saxe:Joshua" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Slater:David" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Spacco:Jaime" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/t/Tseng:Chau=Wen" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/w/Wild:Cody" />
+</dblp:Person>
+<rdf:Description rdf:about="https://dblp.org/pers/b/Berlin:Konstantin.rdf">
+<rdfs:label>provenance information for RDF data of dblp person &apos;b/Berlin:Konstantin&apos;</rdfs:label>
+<dcterms:creator rdf:resource="https://dblp.org" />
+<dcterms:isPartOf rdf:resource="https://dblp.org/rdf/dblp.rdf" />
+<dcterms:license rdf:resource="https://opendatacommons.org/licenses/by/1.0/" />
+<dcterms:modified>2019-05-29T22:46:58+0200</dcterms:modified>
+</rdf:Description>
+</rdf:RDF>

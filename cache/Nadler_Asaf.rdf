@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<rdf:RDF xmlns:dblp="https://dblp.org/rdf/schema-2017-04-18#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1" xmlns:bibtex="http://data.bibbase.org/ontology/#">
+<dblp:Person rdf:about="https://dblp.org/pers/n/Nadler:Asaf">
+<dblp:primaryFullPersonName>Asaf Nadler</dblp:primaryFullPersonName>
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/compsec/NadlerAS19" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/corr/abs-1902-08909" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/conf/eurosp/LeibaYBNS18" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/corr/abs-1805-04282" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/corr/abs-1709-08395" />
+<dblp:authorOf rdf:resource="https://dblp.org/rec/journals/iacr/BentovHMN17" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/a/Aminov:Avi" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/b/Bentov:Iddo" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/b/Biton:Ron" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/h/Hub=aacute=cek:Pavel" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/l/Leiba:Oded" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/m/Moran:Tal" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Shabtai:Asaf" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/s/Sidi:Lior" />
+<dblp:coCreatorWith rdf:resource="https://dblp.org/pers/y/Yitzchak:Yechiav" />
+</dblp:Person>
+<rdf:Description rdf:about="https://dblp.org/pers/n/Nadler:Asaf.rdf">
+<rdfs:label>provenance information for RDF data of dblp person &apos;n/Nadler:Asaf&apos;</rdfs:label>
+<dcterms:creator rdf:resource="https://dblp.org" />
+<dcterms:isPartOf rdf:resource="https://dblp.org/rdf/dblp.rdf" />
+<dcterms:license rdf:resource="https://opendatacommons.org/licenses/by/1.0/" />
+<dcterms:modified>2019-05-22T23:37:10+0200</dcterms:modified>
+</rdf:Description>
+</rdf:RDF>

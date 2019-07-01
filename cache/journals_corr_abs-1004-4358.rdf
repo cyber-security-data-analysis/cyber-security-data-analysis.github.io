@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<rdf:RDF xmlns:dblp="https://dblp.org/rdf/schema-2017-04-18#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1" xmlns:bibtex="http://data.bibbase.org/ontology/#">
+<dblp:Publication rdf:about="https://dblp.org/rec/journals/corr/abs-1004-4358">
+<owl:sameAs rdf:resource="http://arxiv.org/abs/1004.4358" />
+<dblp:title>Detecting DNS Tunnels Using Character Frequency Analysis</dblp:title>
+<dblp:bibtexType rdf:resource="http://data.bibbase.org/ontology/#Article" />
+<dblp:publicationType rdf:resource="https://dblp.org/rdf/schema-2017-04-18#Informal" />
+<dblp:authoredBy rdf:resource="https://dblp.org/pers/b/Born:Kenton" />
+<dblp:authoredBy rdf:resource="https://dblp.org/pers/g/Gustafson:David" />
+<dblp:primaryElectronicEdition rdf:resource="http://arxiv.org/abs/1004.4358" />
+<dblp:listedOnTocPage rdf:resource="https://dblp.org/db/journals/corr/corr1004" />
+<dblp:publishedInJournal>CoRR</dblp:publishedInJournal>
+<dblp:publishedInJournalVolume>abs/1004.4358</dblp:publishedInJournalVolume>
+<dblp:yearOfPublication>2010</dblp:yearOfPublication>
+</dblp:Publication>
+<rdf:Description rdf:about="https://dblp.org/rec/journals/corr/abs-1004-4358.rdf">
+<rdfs:label>provenance information for RDF data of dblp record &apos;journals/corr/abs-1004-4358&apos;</rdfs:label>
+<dcterms:creator rdf:resource="https://dblp.org" />
+<dcterms:isPartOf rdf:resource="https://dblp.org/rdf/dblp.rdf" />
+<dcterms:license rdf:resource="https://opendatacommons.org/licenses/by/1.0/" />
+<dcterms:modified>2018-08-13T16:46:10+0200</dcterms:modified>
+</rdf:Description>
+</rdf:RDF>

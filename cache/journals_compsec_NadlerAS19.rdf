@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<rdf:RDF xmlns:dblp="https://dblp.org/rdf/schema-2017-04-18#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1" xmlns:bibtex="http://data.bibbase.org/ontology/#">
+<dblp:Publication rdf:about="https://dblp.org/rec/journals/compsec/NadlerAS19">
+<owl:sameAs rdf:resource="https://doi.org/10.1016/j.cose.2018.09.006" />
+<dblp:title>Detection of malicious and low throughput data exfiltration over the DNS protocol.</dblp:title>
+<dblp:bibtexType rdf:resource="http://data.bibbase.org/ontology/#Article" />
+<dblp:publicationType rdf:resource="https://dblp.org/rdf/schema-2017-04-18#Article" />
+<dblp:authoredBy rdf:resource="https://dblp.org/pers/n/Nadler:Asaf" />
+<dblp:authoredBy rdf:resource="https://dblp.org/pers/a/Aminov:Avi" />
+<dblp:authoredBy rdf:resource="https://dblp.org/pers/s/Shabtai:Asaf" />
+<dblp:primaryElectronicEdition rdf:resource="https://doi.org/10.1016/j.cose.2018.09.006" />
+<dblp:listedOnTocPage rdf:resource="https://dblp.org/db/journals/compsec/compsec80" />
+<dblp:publishedInJournal>Computers &amp; Security</dblp:publishedInJournal>
+<dblp:publishedInJournalVolume>80</dblp:publishedInJournalVolume>
+<dblp:pageNumbers>36-53</dblp:pageNumbers>
+<dblp:yearOfPublication>2019</dblp:yearOfPublication>
+</dblp:Publication>
+<rdf:Description rdf:about="https://dblp.org/rec/journals/compsec/NadlerAS19.rdf">
+<rdfs:label>provenance information for RDF data of dblp record &apos;journals/compsec/NadlerAS19&apos;</rdfs:label>
+<dcterms:creator rdf:resource="https://dblp.org" />
+<dcterms:isPartOf rdf:resource="https://dblp.org/rdf/dblp.rdf" />
+<dcterms:license rdf:resource="https://opendatacommons.org/licenses/by/1.0/" />
+<dcterms:modified>2019-01-18T23:22:34+0100</dcterms:modified>
+</rdf:Description>
+</rdf:RDF>
